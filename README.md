@@ -1,8 +1,4 @@
-
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/agustinlorca/agustinlorca/assets/105286586/a87812cf-5cb4-4012-948b-5330e22a160b" />
-   <h3 align="center">¡Hola 👋! Soy Agustín 👨🏻‍💻</h3>
-</p>
+<h3 align="center">¡Hola 👋! Soy Agustín 👨🏻‍💻</h3>
 <p align="center"><strong>Desarrollador Full Stack</strong></p>
 
 
