@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A fullstack developer from Argentina</h3>
 
 ## 🚀 Languages and Tools I Use
 <h3> Programming Languages </h3>
